@@ -1,0 +1,5 @@
+{
+  "name": "CampusCast",
+  "description": "A comprehensive digital signage management system for colleges allowing admins to control multiple TVs, schedule notices, and manage content across classrooms and common areas.",
+  "requestFramePermissions": []
+}

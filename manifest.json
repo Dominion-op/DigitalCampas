@@ -1,0 +1,10 @@
+{
+  "short_name": "CampusCast",
+  "name": "CampusCast Digital Signage",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#000000",
+  "orientation": "landscape"
+}
